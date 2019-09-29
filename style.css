@@ -12,3 +12,17 @@
     height: 300px;
     object-fit: cover;
 }
+
+.contact {
+    background: #eff2f5;
+}
+
+.icon-link {
+    font-size: 0;
+    padding-right: 10px;
+    color: #000;
+}
+
+.icon-link i {
+    font-size: 16px;
+}
