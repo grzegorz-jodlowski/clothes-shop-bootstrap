@@ -54,16 +54,19 @@ Responsive website for a online clothes shop with drop-down menu, carousel, prod
 </br>
 
 ## <a name="interesting"></a>Interesting code snippet (for me of course 😉)
-- c
+- sample Bootstrap code (card implementation)
 
-```css
-
-
-```
-- a
-
-```css
-
+```html
+<div class="card col-sm-6 col-lg-4">
+  <div class="card-image">
+    <img src="#.jpg" alt="Card image cap">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Sed tincidunt</h5>
+    <p class="card-text"></p>
+    <a href="#" class="btn btn-light">Add to cart</a>
+  </div>
+</div>
 ```
 
 </br>
