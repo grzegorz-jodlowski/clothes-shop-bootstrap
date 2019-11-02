@@ -47,8 +47,8 @@ Responsive website for a online clothes shop with drop-down menu, carousel, prod
    - don't make users think,
    - make the code legible,
    - give your site space and breath,
-- host photos online on a free platform (ex. <a href="https://postimages.org">PostImages</a>),
-- reduce the size of photos for placing on the website  (ex. <a href="https://tinyjpg.com">Tiny JPG</a>),
+- host photos online on a free platform (e.g. <a href="https://postimages.org">PostImages</a>),
+- reduce the size of photos for placing on the website  (e.g. <a href="https://tinyjpg.com">Tiny JPG</a>),
 
 
 </br>
