@@ -15,7 +15,7 @@
 - [Technologies used](#technologies)
 - [What I learned?](#what)
 - [Interesting code snippet](#interesting)
-- [GitHub Pages](#gitHub)
+- [Website (on GitHub Pages)](#site)
 
 </br>
 
@@ -71,7 +71,7 @@ Responsive website for a online clothes shop with drop-down menu, carousel, prod
 
 </br>
 
-## <a name="gitHub"></a>GitHub Pages
+## <a name="site"></a>Website (on GitHub Pages)
 <a href="https://grzegorz-jodlowski.github.io/clothes-shop-bootstrap/">Clothes shop</a>
 
 </br>
