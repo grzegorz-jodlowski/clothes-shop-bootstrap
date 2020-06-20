@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://grzegorz-jodlowski.github.io/clothes-shop-bootstrap/"><img src="logo2.jpg" title="logo" alt=""></a>
+<a href="https://grzegorz-jodlowski.github.io/clothes-shop-bootstrap/"><img src="Assets/logo2.jpg" title="logo" alt=""></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [What's this project about?](#about)
-- [Technologies used](#technologies)
+- [Technologies used](#tech)
 - [What I learned?](#what)
 - [Interesting code snippet](#interesting)
 - [Website (on GitHub Pages)](#site)
@@ -25,7 +25,7 @@ Responsive website for a online clothes shop with drop-down menu, carousel, prod
 
 </br>
 
-## <a name="technologies"></a>Technologies used
+## <a name="tech"></a>Technologies used
 - HTML
 - CSS
 - SCSS
